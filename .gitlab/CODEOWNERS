@@ -1,0 +1,8 @@
+# Backend Maintainers
+node @maxim-usikov
+
+# Technical writing team are the default reviewers for everything in `wiki/`
+/wiki/ @maxim-usikov
+
+# Frontend maintainers
+vue @maxim-usikov
